@@ -66,5 +66,5 @@
 
 ## 동영상
 
-[![동영상](http://img.youtube.com/vi/vKLg15G48xQ/maxresdefault.jpg)](https://youtu.be/vKLg15G48xQ)
+[![동영상](https://img.youtube.com/vi/vKLg15G48xQ/maxresdefault.jpg)](https://youtu.be/vKLg15G48xQ)
 이미지 클릭
