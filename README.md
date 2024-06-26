@@ -65,6 +65,4 @@
 **<span style="color: #ffba4c">②</span> 판매:** 터렛을 판매할 수 있습니다. <br/>
 
 ## 동영상
-
-[![동영상](https://img.youtube.com/vi/vKLg15G48xQ/maxresdefault.jpg)](https://youtu.be/vKLg15G48xQ)
-이미지 클릭
+https://github.com/myodan/tower-defense-game/assets/41239679/c64d2614-5a9a-46eb-99a9-7b4d84ae8e6a
